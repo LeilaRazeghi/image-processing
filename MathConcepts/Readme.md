@@ -8,18 +8,18 @@ Getting an image as input and calculate its **Histogram** then visualize the res
 ### output: plt.plot()  ![](output\plot.png)
 
 ## 2. Forground focus and Blurred background
-### input: ![](input\flower_input.jpg)
-### output: ![](output\blur_background.png)
+### input: ![Flower](input\flower_input.jpg)
+### output: ![Blurred backround](output\blur_background.png)
 ## 3. Edge Detection
 Laplacian Operator is used to detect edges of image
-### input: ![](input\lion.png) ![](input\spider.webp)
+### input: ![lion](input\lion.png) ![spide](input\spider.webp)
 
-### output: ![](output\lion_edge.png)  ![](output\spider_edge.png)
+### output: ![edged lion](output\lion_edge.png)  ![edged spider](output\spider_edge.png)
 
 ## 4. Building Horiontal & Vertical Edge Eetection
-### input: ![](input\building.png)
-### output:  ![](output\Building_h.png)  ![](output\Building_v.png)
+### input: ![building](input\building.png)
+### output:  ![Hor Biulding](output\Building_h.png)  ![Ver Building](output\Building_v.png)
 
 ## 5. Image Noise Reduction
-### input: ![xray](input\xray_noisy.png) ![](input\board_noisy.png) ![](input\image_noisy.png)
-### output: ![](output\board_noise_reduction.png) ![](output\circle_noise_reduction.png) ![](output\xray_noise_reduction.png)
+### input: ![xray noise](input\xray_noisy.png) ![board noise](input\board_noisy.png) ![circle noise](input\image_noisy.png)
+### output: ![reduced noise board](output\board_noise_reduction.png) ![reduced noise circle](output\circle_noise_reduction.png) ![reduced noise xray](output\xray_noise_reduction.png)

@@ -21,5 +21,5 @@ Laplacian Operator is used to detect edges of image
 ### output:  ![](output\Building_h.png)  ![](output\Building_v.png)
 
 ## 5. Image Noise Reduction
-### input: ![](input\xray_noisy.png) ![](input\board_noisy.png) ![](input\image_noisy.png)
+### input: ![xray](input\xray_noisy.png) ![](input\board_noisy.png) ![](input\image_noisy.png)
 ### output: ![](output\board_noise_reduction.png) ![](output\circle_noise_reduction.png) ![](output\xray_noise_reduction.png)

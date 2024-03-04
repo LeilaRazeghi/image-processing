@@ -1,7 +1,7 @@
 # Convolution Basic Concepts
 ## 1. Calculate Histogram
 Getting an image as input and calculate its **Histogram** then visualize the results with plt.plot(), plt.hist() and plt.bar() 
-### input: ![](input\photo_2024-02-22_09-38-32.jpg)
+### input: ![](input/photo_2024-02-22_09-38-32.jpg)
 
 ### output: plt.hist() ![](output\histogram.png)
 ### output: plt.bar()  ![](output\bar.png)

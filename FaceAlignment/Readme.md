@@ -1,7 +1,7 @@
 # Face Alignment
 Basic Math Operation:
 ## 1. enlarged lip and eyes on the face
-![](ouput/lip_eyes_on_face.jpg)
+![](output/result_lip_eyes_on_face.jpg)
 
 ## 2. Fruit Filter
 ![](output/result_lip_eyes_fruit.jpg)

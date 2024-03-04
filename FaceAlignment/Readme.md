@@ -1,13 +1,13 @@
 # Face Alignment
 Basic Math Operation:
 ## 1. enlarged lip and eyes on the face
-![](lip_eyes on face.jpg)
+![](ouput/lip_eyes_on_face.jpg)
 
 ## 2. Fruit Filter
-![](result_lip_eyes_fruit.jpg)
+![](output/result_lip_eyes_fruit.jpg)
 
 ## 3. Face Align with eyes
 
-![](aligned_MrBin.png)
+![](output/aligned_MrBin.png)
 ## 4. Rotate Face
-![](My_wrong_pic.jpg)
+![](output/My_wrong_pic.jpg)

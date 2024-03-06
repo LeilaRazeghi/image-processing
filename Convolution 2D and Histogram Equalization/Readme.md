@@ -1,7 +1,7 @@
 # Convolution 2D and Histogram Equaliation
 ## 1.Convolution 2D
 Applying five 2D filters with different kernels on a custom image
-### input: ![](input\photo_2024-03-04_15-59-54.jpg)
+### input: ![](input/photo_2024-03-04_15-59-54.jpg)
 ### output:
 ![](output\result1.jpg)
 ![](output\result2.png)

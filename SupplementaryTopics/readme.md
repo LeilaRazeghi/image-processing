@@ -4,7 +4,7 @@ Transparent Microsoft logo and remove it's background.
 ![](output/ms_logo_transparent.png)
 ## 2- Color Recognition
 Writting a program with webcam to recognize these colors
-![](output/blue.png)  ![](output/green.png)
+![](output/blue.png)  ![](output/red.png)
 
 ## 3- MediaPipe
 Using mediapipe to detect body landmarks on webcam stream.
@@ -17,7 +17,7 @@ Using mediapipe to detect body landmarks on webcam stream.
 #### Image with Persian text
 ![](output/ashkan_image.png)
 #### Equalized image and its hisogram plot
-![](output/equalized_image.jpg) ![](output/Equalied_image_histogram.png)
+![](output/equalized_image.jpg) ![](output/original_image_histogram.png)
 #### Gray image and its hisogram plot
 ![](output/gray_image.jpg)
 ![](output/gray_image_histogram.png)
